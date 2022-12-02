@@ -4,12 +4,12 @@
 
 - Components a serem criados:
 
-[ ] Text
-[ ] Heading
-[ ] Box
-[ ] Button
-[ ] TextInput
-[ ] TextArea
-[ ] Checkbox
-[ ] Avatar
-[ ] MultiStep
+[] Text
+[] Heading
+[] Box
+[] Button
+[] TextInput
+[] TextArea
+[] Checkbox
+[] Avatar
+[] MultiStep
