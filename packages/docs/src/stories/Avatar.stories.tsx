@@ -8,6 +8,13 @@ export default {
 		src: 'https://avatars.githubusercontent.com/u/97031798?v=4',
 		alt: 'Foto de perfil',
 	},
+	argTypes: {
+		src: {
+			control: {
+				type: 'text',
+			},
+		},
+	},
 } as Meta<IAvatarProps>
 
 export const Primary: StoryObj<IAvatarProps> = {}
